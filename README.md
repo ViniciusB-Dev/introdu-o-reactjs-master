@@ -15,7 +15,7 @@ in script : "buind": "webpack --mode productuion"
 npm i @babel/core @babel-loader @babel/preset-env @babel/preset-react --save-dev
 
 # configuration
-nom i react react-en
+npm i react react-en
 npm i -D babel-preset-react
 
 {
