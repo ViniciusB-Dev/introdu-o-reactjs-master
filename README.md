@@ -4,7 +4,7 @@ Introdução ao ReactJS
 
 
 
-instalation 
+# instalation 
 EsLint : npm install --save-dev eslint babel-eslint eslint-plugin-react eslint-watch
 
 create to source webpack.config.js
@@ -14,7 +14,7 @@ in script : "buind": "webpack --mode productuion"
 
 npm i @babel/core @babel-loader @babel/preset-env @babel/preset-react --save-dev
 
-configuration
+# configuration
 nom i react react-en
 npm i -D babel-preset-react
 
